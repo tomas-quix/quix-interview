@@ -1,4 +1,12 @@
-# PairProgramming
+# Quix interview
+
+Welcome to Quix interview pair programming session.
+This is empty Angular project with NgRx library installed.
+
+There is Hello world example including async action example in app component.
+
+
+# Setup
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
